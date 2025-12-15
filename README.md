@@ -8,12 +8,7 @@ as WMS, WMTS or other Geoserver services.
 
 Module Status
 - Initial version - Work-in-Progress
-- available As-Is 
-
-Geoserver / Geotools Version in branches
-- main: gs 2.27.2, gt 33.2
-- 2.27.2: gs 2.27.2, gt 33.2
-- 2.27.1: gs 2.27.1, gt 33.1
+- available As-Is
 
 License
 - This Repository contains  original code - see [LICENSE](./LICENSE.md)
